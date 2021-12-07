@@ -1,3 +1,4 @@
+//123saff
 function name(arr1,arr2) {
     let accum1 =arr1.reduce((prev,current)=>{
         prev = prev*current
