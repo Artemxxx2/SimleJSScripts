@@ -9,4 +9,5 @@ function name(arr1,arr2) {
             })
     return accum1 - accum2;
 }
+//111
 console.log(name([1,2,3],[1,2,7]));
